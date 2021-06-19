@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @IN0C3NC10;
-- Currently my account has:
+// Hello World!
+- 👋 I’m Bruno Inocencio;
+
+// Technologies
+- 👀 Currently my account has:
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=IN0C3NC10&theme=dark)
 
