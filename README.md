@@ -1,7 +1,9 @@
 // Hello World!
-- 👋 I’m Bruno Inocencio;
-- Yeah... Maybe I can write something cool and all, but "Nah!". I just will leave this!;
-- =)
+- 👋 Hey!
+- I’m Bruno Inocencio;
+- Internet Systems Student;
+- Computer Technician;
+- Coffee Lover;
 
 // Technologies
 - 👀 Currently my account has:
