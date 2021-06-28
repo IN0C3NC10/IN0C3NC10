@@ -8,7 +8,7 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=IN0C3NC10&langs_count=8&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IN0C3NC10&langs_count=8)](https://github.com/IN0C3NC10/github-readme-stats)
+
 
 <!---
 - 👀 I’m interested in ...
@@ -21,6 +21,8 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=IN0C3NC10)
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = Paste_Your_GitHub_Repository_Link_Here)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IN0C3NC10&langs_count=8)](https://github.com/IN0C3NC10/github-readme-stats)
 
 ..If more languages don't shows up, try this
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IN0C3NC10&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
