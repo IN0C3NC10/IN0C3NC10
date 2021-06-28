@@ -6,7 +6,7 @@
 // Technologies
 - 👀 Currently my account has:
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=IN0C3NC10&langs_count=3&theme=dark)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=IN0C3NC10&langs_count=6&theme=dark)
 
 
 
