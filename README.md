@@ -8,9 +8,7 @@
 // Technologies
 - 👀 Currently my account has:
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=IN0C3NC10&langs_count=6&theme=dark)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IN0C3NC10&layout=compact&langs_count=6&theme=dark)
 
 <!---
 - 👀 I’m interested in ...
@@ -19,6 +17,8 @@
 - 📫 How to reach me ...
 
 ..Repository Details
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=IN0C3NC10&langs_count=6&theme=dark)
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=IN0C3NC10&show_icons=true&theme=midnight-purple)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=IN0C3NC10)
