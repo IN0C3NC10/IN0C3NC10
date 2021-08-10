@@ -7,7 +7,7 @@ class AboutMe extends Developer{
   category = 'Computer Technician';
   status = 'Student';
   study = 'Internet Systems';
-  lover = 'Coffee';
+  love = 'Coffee';
 };
 ```
 
