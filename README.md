@@ -35,14 +35,14 @@ class AboutMe extends Developer{
 
 ## **Contact**
 <p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bruno.inocencio@fatec.sp.gov.br" /></a>
+  <a href="mailto:bruno.inocencio@fatec.sp.gov.br" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white" /></a>
 
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://cutt.ly/nQlVjQV" /></a>
+  <a href="https://cutt.ly/nQlVjQV" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
 
-  <a href="#" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/bruno.inocencio.96/"/></a>
+  <a href="https://www.facebook.com/bruno.inocencio.96/" target="_blank" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white"/></a>
 </p>
 
 <!---
