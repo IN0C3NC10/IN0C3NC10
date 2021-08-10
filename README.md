@@ -4,11 +4,13 @@
 - Internet Systems Student;
 - Computer Technician;
 - Coffee Lover;
-
+---
 // Technologies
 - 👀 Currently my account has:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IN0C3NC10&layout=compact&langs_count=6&theme=dark)
+
+
 
 <!---
 - 👀 I’m interested in ...
