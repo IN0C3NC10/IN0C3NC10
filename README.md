@@ -41,7 +41,7 @@ class AboutMe extends Developer{
   <a href="https://cutt.ly/nQlVjQV" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
 
-  <a href="https://www.facebook.com/bruno.inocencio.96/" target="_blank" alt="Facebook">
+  <a href="https://www.facebook.com/bruno.inocencio.96/" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white"/></a>
 </p>
 
