@@ -34,15 +34,12 @@ class AboutMe extends Developer{
 
 
 ## **Contact**
-<p align="left">
+<p align="left">  
   <a href="mailto:bruno.inocencio@fatec.sp.gov.br" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/-Email-006bed?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
 
   <a href="https://cutt.ly/nQlVjQV" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
-
-  <a href="https://www.facebook.com/bruno.inocencio.96/" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
 </p>
 
 <!---
@@ -52,6 +49,14 @@ class AboutMe extends Developer{
 - 📫 How to reach me ...
 
 ..Repository Details
+
+//..little socials
+<a href="mailto:bruno.inocencio@fatec.sp.gov.br" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white" /></a>
+<a href="https://cutt.ly/nQlVjQV" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+<a href="https://www.facebook.com/bruno.inocencio.96/" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white"/></a>
 
 //..horizontal stats view
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IN0C3NC10&layout=compact&langs_count=6&theme=dark)
