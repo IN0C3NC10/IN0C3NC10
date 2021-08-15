@@ -29,7 +29,7 @@ class AboutMe extends Developer{
 
 
 ## **GitHub Stats**
-<a href="https://github.com/IN0C3NC10/github-readme-stats">
+<a href="https://github.com/IN0C3NC10">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IN0C3NC10&langs_count=6&theme=dark" />
 </a>
 
