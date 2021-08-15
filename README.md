@@ -30,7 +30,7 @@ class AboutMe extends Developer{
 
 ## **GitHub Stats**
 <a href="https://github.com/IN0C3NC10">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IN0C3NC10&langs_count=6&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IN0C3NC10&layout=compact&langs_count=8&theme=dark" />
 </a>
 
 
@@ -63,11 +63,12 @@ class AboutMe extends Developer{
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white"/></a>
 
 //..horizontal stats view
-https://github-readme-stats.vercel.app/api/top-langs/?username=IN0C3NC10&layout=compact&langs_count=6&theme=dark
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IN0C3NC10&layout=compact&langs_count=6&theme=dark)
 
 //..Bug and is vertical view
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=IN0C3NC10&langs_count=6&theme=dark)
+or
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IN0C3NC10&langs_count=6&theme=dark" />
 
 //..Details numbers
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=IN0C3NC10&show_icons=true&theme=midnight-purple)
