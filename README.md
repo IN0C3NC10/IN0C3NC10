@@ -25,14 +25,15 @@ class AboutMe extends Developer{
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <!--
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
-
+-->
 
 
 ## **GitHub Stats**
+<a href="https://github.com/IN0C3NC10/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IN0C3NC10&langs_count=6&theme=dark" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IN0C3NC10&layout=compact&langs_count=6&theme=dark" /></a>
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=IN0C3NC10&langs_count=6&theme=dark)
--->
+
 
 ## **Contact**
 <p align="left">  
@@ -62,6 +63,7 @@ class AboutMe extends Developer{
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white"/></a>
 
 //..horizontal stats view
+https://github-readme-stats.vercel.app/api/top-langs/?username=IN0C3NC10&layout=compact&langs_count=6&theme=dark
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IN0C3NC10&layout=compact&langs_count=6&theme=dark)
 
 //..Bug and is vertical view
