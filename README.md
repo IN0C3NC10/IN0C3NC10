@@ -25,13 +25,14 @@ class AboutMe extends Developer{
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <!--
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
--->
+
 
 
 ## **GitHub Stats**
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IN0C3NC10&layout=compact&langs_count=6&theme=dark" /></a>
-
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=IN0C3NC10&langs_count=6&theme=dark)
+-->
 
 ## **Contact**
 <p align="left">  
