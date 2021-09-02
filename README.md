@@ -16,23 +16,25 @@ class AboutMe extends Developer{
 <p align="left">
   <a href="https://github.com/IN0C3NC10">
     <!-- C -->
-    <img height="30" src="https://img.shields.io/badge/C-39588C?style=for-the-badge&logo=c&logoColor=white">
+    <img height="30" src="https://img.shields.io/badge/C-00001a?style=for-the-badge&logo=c&logoColor=39588C">
     <!-- React Native -->
-    <img height="30" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img height="30" src="https://img.shields.io/badge/React_Native-00001a?style=for-the-badge&logo=react&logoColor=61DAFB">
     <!-- HTML5 -->
-    <img height="30" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img height="30" src="https://img.shields.io/badge/HTML-00001a?style=for-the-badge&logo=html5&logoColor=E34F26">
     <!-- CSS3 -->
-    <img height="30" src="https://img.shields.io/badge/CSS-00599C?&style=for-the-badge&logo=css3&logoColor=white">
+    <img height="30" src="https://img.shields.io/badge/CSS-00001a?&style=for-the-badge&logo=css3&logoColor=00599C">
     <!-- PHP -->
-    <img height="30" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+    <img height="30" src="https://img.shields.io/badge/PHP-00001a?style=for-the-badge&logo=php&logoColor=777BB4">
     <!-- Laravel -->
-    <img height="30" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+    <img height="30" src="https://img.shields.io/badge/Laravel-00001a?style=for-the-badge&logo=laravel&logoColor=FF2D20">
     <!-- Java -->
-    <img height="30" src="https://img.shields.io/badge/JSP-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+    <img height="30" src="https://img.shields.io/badge/JSP-00001a?style=for-the-badge&logo=java&logoColor=ED8B00">
     <!-- PostgreSQL -->
-    <img height="30" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img height="30" src="https://img.shields.io/badge/PostgreSQL-00001a?style=for-the-badge&logo=postgresql&logoColor=316192">
     <!-- MySQL -->
-    <img height="30" src="https://img.shields.io/badge/MySQL-239120?style=for-the-badge&logo=mysql&logoColor=white">
+    <img height="30" src="https://img.shields.io/badge/MySQL-00001a?style=for-the-badge&logo=mysql&logoColor=white">
+    <!-- Firebase -->
+    <img height="30" src="https://img.shields.io/badge/Firebase-1a0000?style=for-the-badge&logo=firebase&logoColor=ffbf00">
   </a>
 </p>
 
