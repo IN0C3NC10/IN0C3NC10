@@ -23,6 +23,8 @@ class AboutMe extends Developer{
     <img height="35" src="https://img.shields.io/badge/HTML-00001a?style=for-the-badge&logo=html5&logoColor=E34F26">
     <!-- CSS3 -->
     <img height="35" src="https://img.shields.io/badge/CSS-00001a?&style=for-the-badge&logo=css3&logoColor=00599C">
+    <!-- Javascript -->
+    <img height="35" src="https://img.shields.io/badge/Javascript-00001a?style=for-the-badge&logo=javascript&logoColor=ED8B00">
     <!-- PHP -->
     <img height="35" src="https://img.shields.io/badge/PHP-00001a?style=for-the-badge&logo=php&logoColor=777BB4">
     <!-- Laravel -->
