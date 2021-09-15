@@ -28,6 +28,7 @@ class AboutMe extends Developer{
     <!-- Laravel -->
     <img height="35" src="https://img.shields.io/badge/Laravel-00001a?style=for-the-badge&logo=laravel&logoColor=FF2D20">
     <!-- Java -->
+    <!--
     <img height="35" src="https://img.shields.io/badge/JSP-00001a?style=for-the-badge&logo=java&logoColor=ED8B00">
     <!-- PostgreSQL -->
     <img height="35" src="https://img.shields.io/badge/PostgreSQL-00001a?style=for-the-badge&logo=postgresql&logoColor=316192">
