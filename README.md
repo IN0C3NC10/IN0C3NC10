@@ -17,8 +17,12 @@ class AboutMe extends Developer{
   <a href="https://github.com/IN0C3NC10">
     <!-- C -->
     <img height="35" src="https://img.shields.io/badge/C-00001a?style=for-the-badge&logo=c&logoColor=39588C">
+    <!-- Delphi -->
+    <img height="35" src="https://img.shields.io/badge/Delphi-00001a?style=for-the-badge&logo=delphi&logoColor=red">
     <!-- React Native -->
     <img height="35" src="https://img.shields.io/badge/React_Native-00001a?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <!-- Flutter -->
+    <img height="35" src="https://img.shields.io/badge/Flutter-00001a?style=for-the-badge&logo=flutter&logoColor=blue">
     <!-- HTML5 -->
     <img height="35" src="https://img.shields.io/badge/HTML-00001a?style=for-the-badge&logo=html5&logoColor=E34F26">
     <!-- CSS3 -->
