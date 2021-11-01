@@ -6,7 +6,7 @@ class AboutMe extends Developer{
   name = 'Bruno Inocencio';
   category = 'Computer Technician';
   status = 'Student';
-  study = 'Internet Systems';
+  studying = 'Internet Systems';
   love = 'Coffee';
 };
 ```
