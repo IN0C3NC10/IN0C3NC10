@@ -52,7 +52,7 @@ class AboutMe extends Developer{
 <p align="left">
   <!-- Top-Langs -->
   <a href="https://github.com/IN0C3NC10">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IN0C3NC10&layout=compact&langs_count=10&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IN0C3NC10&layout=compact&langs_count=6&theme=dark" />
   </a>
 </p>
 
