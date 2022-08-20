@@ -60,17 +60,17 @@ class AboutMe extends Developer{
 ## **Contact**
 <p align="left">
   <!-- Outlook -->
-  <a href="mailto:bruno.inocencio@fatec.sp.gov.br" alt="Outlook" target="_blank">
+  <a href="mailto:bruno.inocencio@fatec.sp.gov.br" title="Outlook" alt="Outlook" target="_blank">
     <img height="35" src="https://img.shields.io/badge/Outlook-00001a?style=for-the-badge&logo=microsoft-outlook&logoColor=0078D4" />
   </a>
   <!-- Linkedin -->
-  <a href="https://cutt.ly/nQlVjQV" alt="Linkedin" target="_blank">
+  <a href="https://cutt.ly/nQlVjQV" title="Linkedin" alt="Linkedin" target="_blank">
     <img height="35" src="https://img.shields.io/badge/-LinkedIn-00001a?style=for-the-badge&logo=linkedin&logoColor=%230077B5" />
   </a>
   <!-- GitHub -->
-  <!--<a href="https://github.com/IN0C3NC10" alt="GitHub" target="_blank">
-    <img height="35" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>-->
+  <a href="https://in0c3nc10.github.io/INO100CIO/" title="Website no GitHub" alt="Link do Website INO100CIO" target="_blank">
+    <img height="35" src="https://img.shields.io/badge/Website-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 
