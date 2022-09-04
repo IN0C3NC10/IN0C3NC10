@@ -1,13 +1,13 @@
 ## **HELLO WORLD!**
-```js
-import Developer from 'IN0C3NC10';
+```php
+require 'developer.php';
+use Developer;
 
-class AboutMe extends Developer{
-  name = 'Bruno Inocencio';
-  category = 'Computer Technician';
-  status = 'Student';
-  studying = 'Internet Systems';
-  love = 'Coffee';
+class IN0C3NC10 extends Developer{
+  public $name = 'Bruno Inocencio';
+  public $category = 'Computer Technician';
+  public $studying = 'PHP';
+  protected $love = ['Coffee', 'Coding'];
 };
 ```
 
