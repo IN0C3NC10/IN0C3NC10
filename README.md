@@ -22,6 +22,10 @@ class IN0C3NC10 extends Developer{
     <img height="35" src="https://img.shields.io/badge/CSS-181717?&style=for-the-badge&logo=css3&logoColor=00599C">
     <!-- Javascript -->
     <img height="35" src="https://img.shields.io/badge/Javascript-181717?style=for-the-badge&logo=javascript&logoColor=ED8B00">
+    <!-- JQuery -->
+    <img height="35" src="https://img.shields.io/badge/JQuery-181717?style=for-the-badge&logo=jquery&logoColor=0769AD">
+    <!-- Node Js -->
+    <img height="35" src="https://img.shields.io/badge/Node.js-181717?style=for-the-badge&logo=node.js&logoColor=339933">
     <!-- PHP -->
     <img height="35" src="https://img.shields.io/badge/PHP-181717?style=for-the-badge&logo=php&logoColor=777BB4">
     <!-- Laravel -->
