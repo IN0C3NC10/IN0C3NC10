@@ -71,14 +71,15 @@ class IN0C3NC10 extends Developer{
   </a>
 </p>
 
-
+<!-- Top-Langs -->
+<!--
 ## **STATS**
-<p align="left">
-  <!-- Top-Langs -->
+ <p align="left">
   <a href="https://github.com/IN0C3NC10">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IN0C3NC10&layout=compact&langs_count=6&theme=dark" />
   </a>
 </p>
+-->
 
 
 ## **CONTACT**
