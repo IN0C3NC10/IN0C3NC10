@@ -1,4 +1,4 @@
-## **HELLO WORLD!**
+## **HELLO WORLD!** :v::earth_americas:
 ```php
 require 'developer.php';
 use Developer;
@@ -12,7 +12,7 @@ class IN0C3NC10 extends Developer{
 ```
 
 
-## **TECHNOLOGIES**
+## **TECHNOLOGIES** :iphone:
 ### **Web**
 <p align="left">
   <a href="https://github.com/IN0C3NC10">
@@ -72,17 +72,22 @@ class IN0C3NC10 extends Developer{
 </p>
 
 <!-- Top-Langs -->
+## **STATS** :trophy:
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IN0C3NC10&layout=compact&langs_count=6&theme=dark&hide_border=true" width="38%" alt="IN0C3NC10" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=IN0C3NC10&theme=radical&no-bg=true&no-frame=true&column=6" alt="IN0C3NC10" />
+</p>
+
 <!--
-## **STATS**
- <p align="left">
-  <a href="https://github.com/IN0C3NC10">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IN0C3NC10&layout=compact&langs_count=6&theme=dark" />
-  </a>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IN0C3NC10&theme=dark&hide_border=true" alt="IN0C3NC10" />
 </p>
 -->
 
 
-## **CONTACT**
+## **CONTACT** :mailbox_with_mail:
 <p align="left">
   <!-- Outlook -->
   <a href="mailto:bruno.inocencio@fatec.sp.gov.br" title="Outlook" alt="Outlook" target="_blank">
