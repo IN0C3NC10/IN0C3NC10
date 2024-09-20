@@ -15,59 +15,63 @@ class IN0C3NC10 extends Developer{
 ## **TECHNOLOGIES** :iphone:
 ### **Web**
 <p align="left">
-  <a href="https://github.com/IN0C3NC10">
+  <a href="#">
     <!-- HTML5 -->
-    <img height="35" src="https://img.shields.io/badge/HTML-181717?style=for-the-badge&logo=html5&logoColor=E34F26">
+    <img height="35" src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=E34F26">
     <!-- CSS3 -->
-    <img height="35" src="https://img.shields.io/badge/CSS-181717?&style=for-the-badge&logo=css3&logoColor=00599C">
+    <img height="35" src="https://img.shields.io/badge/CSS-000000?&style=for-the-badge&logo=css3&logoColor=00599C">
     <!-- Javascript -->
-    <img height="35" src="https://img.shields.io/badge/Javascript-181717?style=for-the-badge&logo=javascript&logoColor=ED8B00">
+    <img height="35" src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javascript&logoColor=ED8B00">
     <!-- JQuery -->
-    <img height="35" src="https://img.shields.io/badge/JQuery-181717?style=for-the-badge&logo=jquery&logoColor=0769AD">
+    <img height="35" src="https://img.shields.io/badge/JQuery-000000?style=for-the-badge&logo=jquery&logoColor=0769AD">
     <!-- Node Js -->
-    <img height="35" src="https://img.shields.io/badge/Node.js-181717?style=for-the-badge&logo=node.js&logoColor=339933">
+    <img height="35" src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933">
     <!-- PHP -->
-    <img height="35" src="https://img.shields.io/badge/PHP-181717?style=for-the-badge&logo=php&logoColor=777BB4">
+    <img height="35" src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=777BB4">
     <!-- Laravel -->
-    <img height="35" src="https://img.shields.io/badge/Laravel-181717?style=for-the-badge&logo=laravel&logoColor=FF2D20">
+    <img height="35" src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=EF0307">
     <!-- Vue Js -->
-    <img height="35" src="https://img.shields.io/badge/Vue.js-181717?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+    <img height="35" src="https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
   </a>
 </p>
 
 ### **Desktop**
 <p align="left">
-  <a href="https://github.com/IN0C3NC10">
+  <a href="#">
+    <!-- Python -->
+    <img height="35" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=blue" title="Feito com Python"></img>
     <!-- C -->
-    <img height="35" src="https://img.shields.io/badge/C-181717?style=for-the-badge&logo=c&logoColor=39588C">
+    <img height="35" src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=39588C">
     <!-- C# -->
-    <img height="35" src="https://img.shields.io/badge/C Sharp-181717?style=for-the-badge&logo=csharp&logoColor=239120">
+    <img height="35" src="https://img.shields.io/badge/C Sharp-000000?style=for-the-badge&logo=csharp&logoColor=239120">
     <!-- Delphi -->
-    <img height="35" src="https://img.shields.io/badge/Delphi-181717?style=for-the-badge&logo=delphi&logoColor=red">
+    <img height="35" src="https://img.shields.io/badge/Delphi-000000?style=for-the-badge&logo=delphi&logoColor=EF0307">
   </a>
 </p>
 
 ### **Mobile**
 <p align="left">
-  <a href="https://github.com/IN0C3NC10">
+  <a href="#">
     <!-- React Native -->
-    <img height="35" src="https://img.shields.io/badge/React_Native-181717?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img height="35" src="https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=61DAFB">
     <!-- Flutter -->
-    <img height="35" src="https://img.shields.io/badge/Flutter-181717?style=for-the-badge&logo=flutter&logoColor=blue">
+    <img height="35" src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=blue">
   </a>
 </p>
 
 ### **Database**
 <p align="left">
-  <a href="https://github.com/IN0C3NC10">
+  <a href="#">
+    <!-- SQLite -->
+    <img height="35" src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=003B57">
     <!-- PostgreSQL -->
-    <img height="35" src="https://img.shields.io/badge/PostgreSQL-181717?style=for-the-badge&logo=postgresql&logoColor=316192">
+    <img height="35" src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=316192">
     <!-- MySQL -->
-    <img height="35" src="https://img.shields.io/badge/MySQL-181717?style=for-the-badge&logo=mysql&logoColor=white">
+    <img height="35" src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white">
     <!-- MongoDB -->
-    <img height="35" src="https://img.shields.io/badge/MongoDB-181717?style=for-the-badge&logo=mongodb&logoColor=47A248">
+    <img height="35" src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248">
     <!-- Firebase -->
-    <img height="35" src="https://img.shields.io/badge/Firebase-181717?style=for-the-badge&logo=firebase&logoColor=ffbf00">
+    <img height="35" src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=ffbf00">
   </a>
 </p>
 
@@ -80,26 +84,16 @@ class IN0C3NC10 extends Developer{
   <img src="https://github-profile-trophy.vercel.app/?username=IN0C3NC10&theme=radical&no-bg=true&no-frame=true&column=6" alt="IN0C3NC10" />
 </p>
 
-<!--
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IN0C3NC10&theme=dark&hide_border=true" alt="IN0C3NC10" />
-</p>
--->
-
 
 ## **CONTACT** :mailbox_with_mail:
 <p align="left">
-  <!-- Outlook -->
-  <a href="mailto:bruno.inocencio@fatec.sp.gov.br" title="Outlook" alt="Outlook" target="_blank">
-    <img height="35" src="https://img.shields.io/badge/Outlook-181717?style=for-the-badge&logo=microsoft-outlook&logoColor=0078D4" />
-  </a>
   <!-- Linkedin -->
-  <a href="https://cutt.ly/nQlVjQV" title="Linkedin" alt="Linkedin" target="_blank">
-    <img height="35" src="https://img.shields.io/badge/-LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=%230077B5" />
+  <a href="https://cutt.ly/nQlVjQV" title="Does anyone actually use this?!" alt="Linkedin" target="_blank">
+    <img height="35" src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=%230077B5" />
   </a>
   <!-- GitHub -->
-  <a href="https://in0c3nc10.github.io/INO100CIO/" title="Website no GitHub" alt="Link do Website INO100CIO" target="_blank">
-    <img height="35" src="https://img.shields.io/badge/Website-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://in0c3nc10.github.io/INO100CIO/" title="Let's Go ahead, don't be shy!" alt="Link do Website INO100CIO">
+    <img height="35" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
