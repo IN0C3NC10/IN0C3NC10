@@ -78,7 +78,7 @@ class IN0C3NC10 extends Developer{
 <!-- Top-Langs -->
 ## **STATS** :trophy:
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IN0C3NC10&layout=compact&langs_count=6&theme=dark&hide_border=true" width="38%" alt="IN0C3NC10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IN0C3NC10&layout=compact&theme=vision-friendly-dark" width="38%" alt="IN0C3NC10" />
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=IN0C3NC10&theme=radical&no-bg=true&no-frame=true&column=6" alt="IN0C3NC10" />
